@@ -1,4 +1,3 @@
 # HTML-Lists-Assignement
-HTML Lists Assignement
 
-Making numbered lists and bullet point analysts.
+Making ordered lists, unordered lists and bullet point analysts.
